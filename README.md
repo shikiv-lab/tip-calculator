@@ -20,5 +20,6 @@ python .\app.py
 
 Notes:
 - History is stored in `tip_history.json` in the same folder.
-- No external packages required..
+- No external packages required.
+
 
