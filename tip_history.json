@@ -1,0 +1,138 @@
+[
+  {
+    "time": 1760703204,
+    "bill": 10.0,
+    "tip_percent": 9.97,
+    "people": 5,
+    "per_person": 2.2,
+    "total": 11.0
+  },
+  {
+    "time": 1760699530,
+    "bill": 1000.0,
+    "tip_percent": 13.43,
+    "people": 1,
+    "per_person": 1134.35,
+    "total": 1134.35
+  },
+  {
+    "time": 1760699480,
+    "bill": 1000.0,
+    "tip_percent": 15.0,
+    "people": 10,
+    "per_person": 115.0,
+    "total": 1150.0
+  },
+  {
+    "time": 1760699477,
+    "bill": 1000.0,
+    "tip_percent": 15.0,
+    "people": 7,
+    "per_person": 164.29,
+    "total": 1150.0
+  },
+  {
+    "time": 1760699474,
+    "bill": 1000.0,
+    "tip_percent": 15.0,
+    "people": 6,
+    "per_person": 191.67,
+    "total": 1150.0
+  },
+  {
+    "time": 1760699469,
+    "bill": 1000.0,
+    "tip_percent": 15.0,
+    "people": 3,
+    "per_person": 383.33,
+    "total": 1150.0
+  },
+  {
+    "time": 1760699469,
+    "bill": 1000.0,
+    "tip_percent": 15.0,
+    "people": 3,
+    "per_person": 383.33,
+    "total": 1150.0
+  },
+  {
+    "time": 1760699468,
+    "bill": 1000.0,
+    "tip_percent": 15.0,
+    "people": 3,
+    "per_person": 383.33,
+    "total": 1150.0
+  },
+  {
+    "time": 1760699467,
+    "bill": 1000.0,
+    "tip_percent": 15.0,
+    "people": 3,
+    "per_person": 383.33,
+    "total": 1150.0
+  },
+  {
+    "time": 1760699465,
+    "bill": 1000.0,
+    "tip_percent": 15.0,
+    "people": 2,
+    "per_person": 575.0,
+    "total": 1150.0
+  },
+  {
+    "time": 1760699461,
+    "bill": 1000.0,
+    "tip_percent": 15.0,
+    "people": 1,
+    "per_person": 1150.0,
+    "total": 1150.0
+  },
+  {
+    "time": 1760699281,
+    "bill": 500.0,
+    "tip_percent": 9.97,
+    "people": 5,
+    "per_person": 109.97,
+    "total": 549.86
+  },
+  {
+    "time": 1760699280,
+    "bill": 500.0,
+    "tip_percent": 9.97,
+    "people": 5,
+    "per_person": 109.98,
+    "total": 549.86
+  },
+  {
+    "time": 1760699278,
+    "bill": 500.0,
+    "tip_percent": 9.97,
+    "people": 5,
+    "per_person": 109.98,
+    "total": 549.86
+  },
+  {
+    "time": 1760699269,
+    "bill": 500.0,
+    "tip_percent": 9.97,
+    "people": 5,
+    "per_person": 109.97,
+    "total": 549.86
+  },
+  {
+    "time": 1760698819,
+    "bill": 100.0,
+    "tip_percent": 27.65,
+    "people": 5,
+    "per_person": 25.53,
+    "total": 127.65
+  },
+  {
+    "time": 1760698814,
+    "bill": 100.0,
+    "tip_percent": 27.65,
+    "people": 5,
+    "per_person": 25.53,
+    "total": 127.65
+  }
+]
